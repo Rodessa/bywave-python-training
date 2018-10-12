@@ -1,15 +1,11 @@
-# -*- coding: utf-8 -*-
-"""
-Exercise #2
-Write a program that prints all multiples of 7 that are below 100.
 
-Hints:
-check python’s range Function
-"""
+x = range(7, 100, 7)
 
-# your name and email address here
-__author__ = 'xXLXx <leo@bywave.com.au>'
+for n in x:
+  print(n)
 
 
-if __name__ == '__main__':
-    # your code here
+# __author__ = 'Issa <issa@bywave.com.au>'
+
+#  if __name__ == '__Issa__':
+
